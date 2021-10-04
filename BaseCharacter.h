@@ -23,7 +23,7 @@ protected:
     int frame{};
     const int maxFrames{6};
     const float updateTime{1.f / 12.f};
-    const float speed{4.f};
+    float speed{4.f};
     float width{};
     float height{};
     float scale{4.0f};
