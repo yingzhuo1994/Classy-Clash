@@ -1,4 +1,5 @@
 #include "raylib.h"
+#include "raymath.h"
 #include "BaseCharacter.h"
 #include "Character.h"
 
